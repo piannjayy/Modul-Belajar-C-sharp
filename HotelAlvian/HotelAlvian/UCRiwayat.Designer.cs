@@ -1,0 +1,124 @@
+﻿namespace HotelAlvian
+{
+    partial class UCRiwayat
+    {
+        /// <summary> 
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary> 
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Component Designer generated code
+
+        /// <summary> 
+        /// Required method for Designer support - do not modify 
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            label3 = new Label();
+            panel3 = new Panel();
+            textBox2 = new TextBox();
+            label2 = new Label();
+            panel2 = new Panel();
+            dataGridView1 = new DataGridView();
+            panel3.SuspendLayout();
+            panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            SuspendLayout();
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
+            label3.ForeColor = SystemColors.ActiveCaptionText;
+            label3.Location = new Point(345, 46);
+            label3.Name = "label3";
+            label3.Size = new Size(205, 32);
+            label3.TabIndex = 8;
+            label3.Text = "Riwayat Pesanan";
+            // 
+            // panel3
+            // 
+            panel3.BackColor = Color.SteelBlue;
+            panel3.Controls.Add(textBox2);
+            panel3.Controls.Add(label2);
+            panel3.Location = new Point(24, 106);
+            panel3.Name = "panel3";
+            panel3.Size = new Size(827, 59);
+            panel3.TabIndex = 7;
+            // 
+            // textBox2
+            // 
+            textBox2.Location = new Point(201, 18);
+            textBox2.Name = "textBox2";
+            textBox2.Size = new Size(424, 27);
+            textBox2.TabIndex = 3;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.Location = new Point(123, 17);
+            label2.Name = "label2";
+            label2.Size = new Size(72, 28);
+            label2.TabIndex = 2;
+            label2.Text = "Search";
+            // 
+            // panel2
+            // 
+            panel2.BackColor = Color.SteelBlue;
+            panel2.Controls.Add(dataGridView1);
+            panel2.Location = new Point(24, 171);
+            panel2.Name = "panel2";
+            panel2.Size = new Size(827, 366);
+            panel2.TabIndex = 6;
+            // 
+            // dataGridView1
+            // 
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(22, 14);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.RowHeadersWidth = 51;
+            dataGridView1.Size = new Size(782, 332);
+            dataGridView1.TabIndex = 0;
+            // 
+            // UCRiwayat
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            Controls.Add(label3);
+            Controls.Add(panel3);
+            Controls.Add(panel2);
+            Name = "UCRiwayat";
+            Size = new Size(866, 610);
+            panel3.ResumeLayout(false);
+            panel3.PerformLayout();
+            panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private Label label3;
+        private Panel panel3;
+        private TextBox textBox2;
+        private Label label2;
+        private Panel panel2;
+        private DataGridView dataGridView1;
+    }
+}

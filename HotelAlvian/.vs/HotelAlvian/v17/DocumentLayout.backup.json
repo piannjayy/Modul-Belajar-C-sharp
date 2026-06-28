@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Modul_C#\\HotelAlvian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|C:\\Modul_C#\\HotelAlvian\\hotelalvian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|c:\\modul_c#\\hotelalvian\\hotelalvian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|c:\\modul_c#\\hotelalvian\\hotelalvian\\uckamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\uckamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|c:\\modul_c#\\hotelalvian\\hotelalvian\\uckamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\uckamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|C:\\Modul_C#\\HotelAlvian\\hotelalvian\\ucpesan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\ucpesan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|c:\\modul_c#\\hotelalvian\\hotelalvian\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|C:\\Modul_C#\\HotelAlvian\\hotelalvian\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|c:\\modul_c#\\hotelalvian\\hotelalvian\\uccari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\uccari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|C:\\Modul_C#\\HotelAlvian\\hotelalvian\\uccari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\uccari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|c:\\modul_c#\\hotelalvian\\hotelalvian\\uctipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\uctipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|C:\\Modul_C#\\HotelAlvian\\hotelalvian\\uctipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\uctipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|C:\\Modul_C#\\HotelAlvian\\hotelalvian\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|C:\\Modul_C#\\HotelAlvian\\hotelalvian\\ucriwayat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\ucriwayat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|c:\\modul_c#\\hotelalvian\\hotelalvian\\ucberanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\ucberanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|c:\\modul_c#\\hotelalvian\\hotelalvian\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|C:\\Modul_C#\\HotelAlvian\\hotelalvian\\ucberanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\ucberanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|c:\\modul_c#\\hotelalvian\\hotelalvian\\uchome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\uchome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|C:\\Modul_C#\\HotelAlvian\\hotelalvian\\uchome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\uchome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|c:\\modul_c#\\hotelalvian\\hotelalvian\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|C:\\Modul_C#\\HotelAlvian\\hotelalvian\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|c:\\modul_c#\\hotelalvian\\hotelalvian\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB034EE7-F9F1-4DFC-AFAC-B59BCEF48D42}|HotelAlvian\\HotelAlvian.csproj|solutionrelative:hotelalvian\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\Form1.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\Form1.cs [Design]",
+              "RelativeToolTip": "HotelAlvian\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:38:35.488Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\Admin.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\Admin.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\Admin.cs [Design]",
+              "RelativeToolTip": "HotelAlvian\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:13:15.94Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Member.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\Member.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\Member.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\Member.cs [Design]",
+              "RelativeToolTip": "HotelAlvian\\Member.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T04:08:19.61Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCPesan.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCPesan.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\UCPesan.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCPesan.cs [Design]",
+              "RelativeToolTip": "HotelAlvian\\UCPesan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:02:29.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UCCari.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCCari.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\UCCari.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCCari.cs",
+              "RelativeToolTip": "HotelAlvian\\UCCari.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAswGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:55:31.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCKamar.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCKamar.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\UCKamar.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCKamar.cs",
+              "RelativeToolTip": "HotelAlvian\\UCKamar.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAADwv+kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:08:43.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UCTipe.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCTipe.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\UCTipe.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCTipe.cs",
+              "RelativeToolTip": "HotelAlvian\\UCTipe.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwv78AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:41:05.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UCRiwayat.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCRiwayat.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\UCRiwayat.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCRiwayat.cs [Design]",
+              "RelativeToolTip": "HotelAlvian\\UCRiwayat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:26:20.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UCCari.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCCari.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\UCCari.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCCari.cs [Design]",
+              "RelativeToolTip": "HotelAlvian\\UCCari.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:23:57.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UCBeranda.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCBeranda.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\UCBeranda.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCBeranda.cs",
+              "RelativeToolTip": "HotelAlvian\\UCBeranda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:19:39.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UCBeranda.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCBeranda.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\UCBeranda.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCBeranda.cs [Design]",
+              "RelativeToolTip": "HotelAlvian\\UCBeranda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:18:15.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\Member.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\Member.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\Member.cs",
+              "RelativeToolTip": "HotelAlvian\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:16:41.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UCKamar.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCKamar.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\UCKamar.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCKamar.cs [Design]",
+              "RelativeToolTip": "HotelAlvian\\UCKamar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:47:53.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UCTipe.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCTipe.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\UCTipe.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCTipe.cs [Design]",
+              "RelativeToolTip": "HotelAlvian\\UCTipe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:36:21.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UCHome.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCHome.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\UCHome.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCHome.cs [Design]",
+              "RelativeToolTip": "HotelAlvian\\UCHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:26:30.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UCHome.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCHome.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\UCHome.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\UCHome.cs",
+              "RelativeToolTip": "HotelAlvian\\UCHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:29:01.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\Admin.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\Admin.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\Admin.cs",
+              "RelativeToolTip": "HotelAlvian\\Admin.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:23:56.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "register.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\register.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\register.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\register.cs",
+              "RelativeToolTip": "HotelAlvian\\register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:14:18.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\Form1.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\Form1.cs",
+              "RelativeToolTip": "HotelAlvian\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:11:40.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "register.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\register.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\register.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\register.cs [Design]",
+              "RelativeToolTip": "HotelAlvian\\register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:05:39.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "koneksi.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\koneksi.cs",
+              "RelativeDocumentMoniker": "HotelAlvian\\koneksi.cs",
+              "ToolTip": "C:\\Modul_C#\\HotelAlvian\\HotelAlvian\\koneksi.cs",
+              "RelativeToolTip": "HotelAlvian\\koneksi.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:51:49.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

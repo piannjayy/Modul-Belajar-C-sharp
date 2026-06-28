@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Modul_C#\\final_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|c:\\modul_c#\\final_project\\final_project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|solutionrelative:final_project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|C:\\Modul_C#\\final_project\\final_project\\ucauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|solutionrelative:final_project\\ucauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|C:\\Modul_C#\\final_project\\final_project\\ucshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|solutionrelative:final_project\\ucshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|c:\\modul_c#\\final_project\\final_project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|solutionrelative:final_project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|C:\\Modul_C#\\final_project\\final_project\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|solutionrelative:final_project\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|C:\\Modul_C#\\final_project\\final_project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|solutionrelative:final_project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|c:\\modul_c#\\final_project\\final_project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|solutionrelative:final_project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|c:\\modul_c#\\final_project\\final_project\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|solutionrelative:final_project\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|C:\\Modul_C#\\final_project\\final_project\\anggota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|solutionrelative:final_project\\anggota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|c:\\modul_c#\\final_project\\final_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C811B9A4-FA70-40E5-A26E-41F8E45476D7}|final_project\\final_project.csproj|solutionrelative:final_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\final_project\\final_project\\Admin.cs",
+              "RelativeDocumentMoniker": "final_project\\Admin.cs",
+              "ToolTip": "C:\\Modul_C#\\final_project\\final_project\\Admin.cs [Design]",
+              "RelativeToolTip": "final_project\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:53:05.02Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\final_project\\final_project\\Form3.cs",
+              "RelativeDocumentMoniker": "final_project\\Form3.cs",
+              "ToolTip": "C:\\Modul_C#\\final_project\\final_project\\Form3.cs",
+              "RelativeToolTip": "final_project\\Form3.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:08:28.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UCShelf.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\final_project\\final_project\\UCShelf.cs",
+              "RelativeDocumentMoniker": "final_project\\UCShelf.cs",
+              "ToolTip": "C:\\Modul_C#\\final_project\\final_project\\UCShelf.cs [Design]",
+              "RelativeToolTip": "final_project\\UCShelf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:58:40.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\final_project\\final_project\\Program.cs",
+              "RelativeDocumentMoniker": "final_project\\Program.cs",
+              "ToolTip": "C:\\Modul_C#\\final_project\\final_project\\Program.cs",
+              "RelativeToolTip": "final_project\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:52:15.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\final_project\\final_project\\Admin.cs",
+              "RelativeDocumentMoniker": "final_project\\Admin.cs",
+              "ToolTip": "C:\\Modul_C#\\final_project\\final_project\\Admin.cs",
+              "RelativeToolTip": "final_project\\Admin.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:39:40.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UCAuthor.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\final_project\\final_project\\UCAuthor.cs",
+              "RelativeDocumentMoniker": "final_project\\UCAuthor.cs",
+              "ToolTip": "C:\\Modul_C#\\final_project\\final_project\\UCAuthor.cs [Design]",
+              "RelativeToolTip": "final_project\\UCAuthor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:39:25.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\final_project\\final_project\\UCDashboard.cs",
+              "RelativeDocumentMoniker": "final_project\\UCDashboard.cs",
+              "ToolTip": "C:\\Modul_C#\\final_project\\final_project\\UCDashboard.cs [Design]",
+              "RelativeToolTip": "final_project\\UCDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:22:40.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\final_project\\final_project\\Form3.cs",
+              "RelativeDocumentMoniker": "final_project\\Form3.cs",
+              "ToolTip": "C:\\Modul_C#\\final_project\\final_project\\Form3.cs [Design]",
+              "RelativeToolTip": "final_project\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:09:47.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "koneksi.cs",
+              "DocumentMoniker": "C:\\Modul_C#\\final_project\\final_project\\koneksi.cs",
+              "RelativeDocumentMoniker": "final_project\\koneksi.cs",
+              "ToolTip": "C:\\Modul_C#\\final_project\\final_project\\koneksi.cs",
+              "RelativeToolTip": "final_project\\koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:48:12.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Anggota.cs [Design]",
+              "DocumentMoniker": "C:\\Modul_C#\\final_project\\final_project\\Anggota.cs",
+              "RelativeDocumentMoniker": "final_project\\Anggota.cs",
+              "ToolTip": "C:\\Modul_C#\\final_project\\final_project\\Anggota.cs [Design]",
+              "RelativeToolTip": "final_project\\Anggota.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:37:28.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

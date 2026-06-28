@@ -1,0 +1,12 @@
+C:\Modul_C#\final_project\final_project\obj\Debug\net8.0-windows\final_project.csproj.AssemblyReference.cache
+C:\Modul_C#\final_project\final_project\obj\Debug\net8.0-windows\final_project.Admin.resources
+C:\Modul_C#\final_project\final_project\obj\Debug\net8.0-windows\final_project.Anggota.resources
+C:\Modul_C#\final_project\final_project\obj\Debug\net8.0-windows\final_project.Register.resources
+C:\Modul_C#\final_project\final_project\obj\Debug\net8.0-windows\final_project.UCAuthor.resources
+C:\Modul_C#\final_project\final_project\obj\Debug\net8.0-windows\final_project.UCDashboard.resources
+C:\Modul_C#\final_project\final_project\obj\Debug\net8.0-windows\final_project.UCShelf.resources
+C:\Modul_C#\final_project\final_project\obj\Debug\net8.0-windows\final_project.csproj.GenerateResource.cache
+C:\Modul_C#\final_project\final_project\obj\Debug\net8.0-windows\final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Modul_C#\final_project\final_project\obj\Debug\net8.0-windows\final_project.AssemblyInfoInputs.cache
+C:\Modul_C#\final_project\final_project\obj\Debug\net8.0-windows\final_project.AssemblyInfo.cs
+C:\Modul_C#\final_project\final_project\obj\Debug\net8.0-windows\final_project.csproj.CoreCompileInputs.cache
